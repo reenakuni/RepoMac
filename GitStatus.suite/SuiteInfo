@@ -5,6 +5,11 @@
     ScriptMetaData =     {
     };
     SuiteEncodedTextKey = "H(5Eg{D[h^lHH=lj";
+    analysisSuitesInfo =     (
+                {
+            filePath = "/Users/reenakuni/Documents/Repos/RCGit1/GitStatus.suite";
+        }
+    );
     helpedSuitesInfo =     (
     );
     helperSuitesInfo =     (
