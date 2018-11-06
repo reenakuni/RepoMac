@@ -1,10 +1,11 @@
 ﻿{
-    EPVersionNumber = 1811041649;
+    EPVersionNumber = 1811052104;
     Schedules =     (
     );
     ScriptMetaData =     {
     };
     SuiteEncodedTextKey = "H(5Eg{D[h^lHH=lj";
+    SuiteVariables = "{\n xzxz:@\"zxzx\"\n}";
     analysisSuitesInfo =     (
                 {
             filePath = "/Users/reenakuni/Documents/Repos/RCGit1/GitStatus.suite";
@@ -13,5 +14,8 @@
     helpedSuitesInfo =     (
     );
     helperSuitesInfo =     (
+                {
+            filePath = "/Users/reenakuni/Documents/EPFTraining.suite";
+        }
     );
 }
